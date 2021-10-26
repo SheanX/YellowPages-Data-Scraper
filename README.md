@@ -14,3 +14,6 @@ Files created after installation.
 
 ## Steps for installation
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+
+First clone the project files to your machine using below command.
+>git clone feeederf
