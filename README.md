@@ -12,8 +12,16 @@ Files created after installation.
  - testpp.txt -: Final output file
  - /tmp/yweb -: Website will be saved here 
 
-## Steps for installation
+## Steps for installation & use
 You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
 
 First clone the project files to your machine using below command.
->git clone feeederf
+>sudo git clone https://github.com/SheanX/YellowPages-Data-Scraper.git
+
+Go to the file location and open the project file
+>./scraperx.sh
+
+Then give the link of the first page of search results in yellowpages.com
+>example-:https://github.com/SheanX/YellowPages-Data-Scraper.git
+
+
