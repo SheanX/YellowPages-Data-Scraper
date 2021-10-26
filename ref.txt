@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/5947742/how-to-change-the-output-color-of-echo-in-linux
+
+https://devhints.io/bash
+
+https://www.yellowpages.com/search?search_terms=doctors&geo_location_terms=Los+Angeles%2C+CA
+
+https://stackoverflow.com/questions/14204946/extracting-text-from-file-using-bash
+
+https://unix.stackexchange.com/questions/30173/how-to-remove-duplicate-lines-inside-a-text-file
+
+https://linuxize.com/post/bash-for-loop/
+
+https://www.delftstack.com/howto/linux/how-to-concatenate-strings-using-bash/
