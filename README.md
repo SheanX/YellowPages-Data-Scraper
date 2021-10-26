@@ -21,7 +21,7 @@ You can rename the current file by clicking the file name in the navigation bar 
 - Go to the file location and open the project file
    >./scraperx.sh
 
-- Then give the link of the first page of search results in yellowpages.com
+- Then give the link of the first page of search results in yellowpages.com (use ctrl+shift+v to paste the link)
    >example-:https://github.com/SheanX/YellowPages-Data-Scraper.git
    
 - To check the scraped data
