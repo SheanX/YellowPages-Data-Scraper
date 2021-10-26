@@ -11,3 +11,6 @@ Files created after installation.
  - ScraperX -: Main folder
  - testpp.txt -: Final output file
  - /tmp/yweb -: Website will be saved here 
+
+## Steps for installation
+You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
